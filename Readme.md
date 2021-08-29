@@ -2,6 +2,8 @@
 
 使用Qt+DirectX12编写
 
+本项目地址：https://github.com/Valhally/ModelViewer
+
 如需编译此工程, 你应：
 
 1. 安装Visual Studio 2019
